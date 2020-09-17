@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hi there 👋, I'm soni 👩
+## About me👩‍💻
+👩‍💻 I'm a Full-Stack-Developer and ❤ love to build web applications.
 
-<!--
-**SoniKumari30/SoniKumari30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently working on MERN Stack (MongoDB, Express.js, React.js, Node.js).
 
-Here are some ideas to get you started:
+🌱 keen to learn new technologies and always ready to take up new challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✈ Love to visit new places and exploring new things.
+
+## 🛠 Tech Stack
+
+💻   JavaScript | ES6
+
+🌐   HTML | CSS | ReactJS |Redux | Node.js | Express.js
+
+🛢   MongoDB |
+
+🔧   Git |
+
+## 🤝🏻 Connect with Me
+
+sonikumarisharma30@gmail.com  
+
+https://github.com/SoniKumari30
+
+https://www.linkedin.com/in/soni-kumari-91656017b
+
+
+
+
+
+
+
+

@@ -22,8 +22,6 @@
 
 sonikumarisharma30@gmail.com  
 
-https://github.com/SoniKumari30
-
 https://www.linkedin.com/in/soni-kumari-91656017b
 
 

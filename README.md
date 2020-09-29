@@ -18,11 +18,7 @@
 
 🔧   Git |
 
-## 🤝🏻 Connect with Me
 
-sonikumarisharma30@gmail.com  
-
-https://www.linkedin.com/in/soni-kumari-91656017b
 
 
 

@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm soni 👩
 ## About me👩‍💻
-👩‍💻 I'm a Full-Stack-Developer and ❤ love to build web applications.
+👩‍💻 I'm a Full-Stack-Developer and ❤ love to build Websites web applications.
 
 🔭 Currently working on MERN Stack (MongoDB, Express.js, React.js, Node.js).
 

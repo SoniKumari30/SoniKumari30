@@ -17,6 +17,7 @@
 🛢   MongoDB |
 
 🔧   Git |
+LinkedIn Email
 
 
 

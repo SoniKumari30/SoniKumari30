@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm soni 👩
 ## About me👩‍💻
-👩‍💻 I'm a Full-Stack-Developer and ❤ love to build Websites web applications.
-
-🔭 Currently working on MERN Stack (MongoDB, Express.js, React.js, Node.js).
+👩‍💻 I'm a ReactJs Developer and ❤ love to build Websites web applications.
 
 🌱 keen to learn new technologies and always ready to take up new challenges.
 
@@ -12,11 +10,11 @@
 
 💻   JavaScript | ES6
 
-🌐   HTML | CSS | ReactJS |Redux | Node.js | Express.js
+🌐   HTML | CSS | ReactJS | Redux
 
-🛢   MongoDB |
+🛢   Deployement
 
-🔧   Git |
+🔧   Git/Github
 
 
 

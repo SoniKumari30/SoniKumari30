@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm soni 👩
 ## About me👩‍💻
-👩‍💻 I'm a Frontend Developer and ❤ love to build Websites web applications.
+👩‍💻 I'm Frontend Developer and ❤ love to build Websites web applications.
 
 🌱 keen to learn new technologies and always ready to take up new challenges.
 

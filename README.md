@@ -12,9 +12,7 @@
 
 🌐   HTML | CSS | ReactJS | Redux
 
-🛢   Deployement
-
-🔧   Git/Github
+🔧   Git | Github
 
 
 

@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Soni Kumari 👩‍💻
+Hi there! 👋 I'm Soni Kumari 👩💻
 
 🚀 About Me!
 
@@ -22,7 +22,7 @@ I am a Frontend Developer who loves building clean, responsive, and user-friendl
 
 🖥️ Other Skills: API Integration 🔗, Responsive Design 📱, Component-based Development 🏗
 
-📫 Let’s Connect
+📫 Let’s Connect!
 
 🌐 Portfolio: Coming Soon
 
@@ -30,4 +30,4 @@ I am a Frontend Developer who loves building clean, responsive, and user-friendl
 
 📂 GitHub: https://github.com/SoniKumari30
 
-✨ Open to new opportunities. 🚀
+I am passionate about creating great user experiences, writing clean code, and collaborating with teams to build impactful web applications. Always open to learning, growing, and exploring new technologies! 🚀

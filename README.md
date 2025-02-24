@@ -1,6 +1,7 @@
 
 Hi there! 👋 I'm Soni Kumari 👩💻
 
+
 🚀 About Me
 
 I’m a Frontend Developer who loves building clean, responsive, and user-friendly web applications. I enjoy learning new technologies and improving my skills to create better web experiences.
@@ -11,6 +12,7 @@ I’m a Frontend Developer who loves building clean, responsive, and user-friend
 🎨 Passionate about UI/UX and visually appealing designs
 
 ⚡ Focused on clean code and performance optimization
+
 
 
 🛠 Tech Stack
@@ -24,6 +26,7 @@ I’m a Frontend Developer who loves building clean, responsive, and user-friend
 📦 State Management: Redux Toolkit 🛠, Context API 🔄
 
 🖥️ Other Skills: API Integration 🔗, Responsive Design 📱, Component-based Development 🏗
+
 
 
 📫 Let’s Connect!

@@ -30,9 +30,9 @@ I’m a Frontend Developer who loves building clean, responsive, and user-friend
 
 🌐 Portfolio: Coming Soon
 
-💼 LinkedIn: Soni Kumari
+💼 LinkedIn: https://www.linkedin.com/in/soni-kumari-91656017b
 
-📂 GitHub: SoniKumari30
+📂 GitHub: https://github.com/SoniKumari30
 
 
 I love creating great user experiences, writing clean code, and working with teams to build impactful web applications. Always open to learning and growing! 🚀

@@ -4,8 +4,11 @@ Hi there! 👋 I'm Soni Kumari 👩‍💻
 I am a Frontend Developer who loves building clean, responsive, and user-friendly web applications. I enjoy learning new technologies and improving my skills to create better web experiences.
 
 🌱 Always learning and ready for new challenges.
+
 🎨 Passionate about UI/UX and creating visually appealing designs.
+
 ⚡ Focused on clean code and optimizing performance for better user experience.
+
 🛠 Tech Stack
 💻 Languages: JavaScript (ES6) ⚡, TypeScript (Basics) 📝
 🌐 Frontend: HTML5 🏗, CSS3 🎨, React.js ⚛, Redux 🔄, Tailwind CSS 💠, Bootstrap 🖌

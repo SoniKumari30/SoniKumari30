@@ -1,18 +1,17 @@
-👋 Hi, I'm Soni Kumari 👩💻
+💻 Hi, I'm Soni Kumari
 
-Senior Associate Consultant at Infosys | Ex-Capgemini | 4+ Years Experience
-💻 Full Stack Developer specializing in React.js, Redux, Golang, Microservices, Cloud-Native, Docker, Kubernetes, CI/CD, and Deployment.
+Full Stack Developer with 4+ years of experience in designing and developing scalable web applications.
+Proficient in React.js, Redux, JavaScript, HTML, and CSS for front-end development, and skilled in Go (Golang) and MongoDB for back-end solutions.
 
-🚀 Passionate about building scalable, high-performance applications and always eager to learn & explore new technologies.
+🔹 Experienced in building microservices and cloud-native applications, with expertise in Docker (containerization), Kubernetes (orchestration), deployment, and CI/CD pipeline automation.
+🔹 Strong problem-solving abilities, following clean coding practices and performance optimization.
+🔹 Passionate about continuous learning, exploring new technologies, and delivering impactful solutions.
 
-🔧 Tech Stack
+🛠 Tech Stack
 
-Frontend: React.js, Redux, JavaScript (ES6), TypeScript (Basics), HTML5, CSS3, Tailwind, Bootstrap
-
-Backend: Golang, Microservices, API Integration
-
+Frontend: React.js, Redux, JavaScript (ES6), TypeScript (Basics), HTML5, CSS3, Tailwind CSS, Bootstrap
+Backend: Golang, MongoDB, Microservices, API Integration
 DevOps / Cloud: Docker, Kubernetes, CI/CD, Cloud-Native Development
-
 Tools: Git, GitHub, Webpack, Vite
 
 📫 Connect with Me

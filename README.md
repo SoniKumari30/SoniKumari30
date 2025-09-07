@@ -1,50 +1,22 @@
-## **Hi there!** 👋 **I'm Soni Kumari** 👩💻  
+👋 Hi, I'm Soni Kumari 👩💻
 
-### **🚀 About Me**
-I’m a **Frontend Developer** passionate about building **clean, responsive, and user-friendly** web applications. I love learning new technologies and enhancing my skills to create better web experiences.
+Senior Associate Consultant at Infosys | Ex-Capgemini | 4+ Years Experience
+💻 Full Stack Developer specializing in React.js, Redux, Golang, Microservices, Cloud-Native, Docker, Kubernetes, CI/CD, and Deployment.
 
-- 🌱 **Always learning and open to new challenges**
-- 🎨 **Passionate about UI/UX and visually appealing designs**
-- ⚡ **Focused on clean code and performance optimization**
+🚀 Passionate about building scalable, high-performance applications and always eager to learn & explore new technologies.
 
----
+🔧 Tech Stack
 
-### **🛠 Tech Stack**
+Frontend: React.js, Redux, JavaScript (ES6), TypeScript (Basics), HTML5, CSS3, Tailwind, Bootstrap
 
-**💻 Languages:**  
-- **JavaScript (ES6)** ⚡  
-- **TypeScript (Basics)** 📝  
+Backend: Golang, Microservices, API Integration
 
-**🌐 Frontend:**  
-- **HTML5** 🏗  
-- **CSS3** 🎨  
-- **React.js** ⚛  
-- **Redux** 🔄  
-- **Tailwind CSS** 💠  
-- **Bootstrap** 🖌  
+DevOps / Cloud: Docker, Kubernetes, CI/CD, Cloud-Native Development
 
-**🔧 Tools:**  
-- **Git** 🔗  
-- **GitHub** 📂  
-- **Webpack** 📦  
-- **Vite** ⚡  
+Tools: Git, GitHub, Webpack, Vite
 
-**📦 State Management:**  
-- **Redux Toolkit** 🛠  
-- **Context API** 🔄  
+📫 Connect with Me
 
-**🖥️ Other Skills:**  
-- **API Integration** 🔗  
-- **Responsive Design** 📱  
-- **Component-based Development** 🏗  
+💼 LinkedIn
 
----
-
-### **📫 Let’s Connect!**
-
-🌐 **Portfolio:** *Coming Soon*  
-💼 **LinkedIn:** [Soni Kumari](https://www.linkedin.com/in/soni-kumari-91656017b)  
-📂 **GitHub:** [SoniKumari30](https://github.com/SoniKumari30)
-
----
-I love creating **great user experiences, writing clean code, and working with teams** to build impactful web applications. Always open to learning and growing! 🚀
+📂 GitHub

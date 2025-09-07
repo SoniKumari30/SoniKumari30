@@ -4,7 +4,7 @@
 
 🔹 **Experience:** 4+ years building scalable web applications  
 🔹 **Front-end:** React.js, Redux, JavaScript, HTML, CSS  
-🔹 **Back-end:** Go (Golang), Node.js, MongoDB  
+🔹 **Back-end:** Go (Golang), MongoDB  
 🔹 **DevOps & Cloud:** Docker, Kubernetes, Microservices  
 🔹 **Skills:** API development, Unit testing, Debugging, Performance optimization  
 🔹 **Passionate About:** Clean code, Modern web technologies, Continuous learning  
@@ -16,7 +16,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
 

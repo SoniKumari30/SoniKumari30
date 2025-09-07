@@ -1,4 +1,4 @@
-💻 Hi, I'm Soni Kumari
+💻 Hi, I'm Soni Kumari 👩💻
 
 Full Stack Developer with 4+ years of experience in designing and developing scalable web applications.
 Proficient in React.js, Redux, JavaScript, HTML, and CSS for front-end development, and skilled in Go (Golang) and MongoDB for back-end solutions.
@@ -9,10 +9,10 @@ Proficient in React.js, Redux, JavaScript, HTML, and CSS for front-end developme
 
 🛠 Tech Stack
 
-Frontend: React.js, Redux, JavaScript (ES6), TypeScript (Basics), HTML5, CSS3, Tailwind CSS, Bootstrap
-Backend: Golang, MongoDB, Microservices, API Integration
-DevOps / Cloud: Docker, Kubernetes, CI/CD, Cloud-Native Development
-Tools: Git, GitHub, Webpack, Vite
+💻 Frontend: React.js, Redux, JavaScript (ES6), TypeScript (Basics), HTML5, CSS3, Tailwind CSS, Bootstrap
+⚙️ Backend: Golang, MongoDB, Microservices, API Integration
+☁️ DevOps / Cloud: Docker, Kubernetes, CI/CD, Cloud-Native Development
+🔧 Tools: Git, GitHub, Webpack, Vite
 
 📫 Connect with Me
 

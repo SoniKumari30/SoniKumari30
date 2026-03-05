@@ -2,7 +2,7 @@
 
 ### 💻 Full Stack Developer | React.js & Go (Golang) Specialist
 
-🔹 **Experience:** 4+ years building scalable web applications  
+🔹 **Experience:** 4.6+ years building scalable web applications  
 🔹 **Front-end:** React.js, Redux, JavaScript, HTML, CSS  
 🔹 **Back-end:** Go (Golang), MongoDB  
 🔹 **DevOps & Cloud:** Docker, Kubernetes, Microservices  

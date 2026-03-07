@@ -1,11 +1,11 @@
 # Hi 👋, I’m Soni Kumari
 
-### 💻 Full Stack Developer | JavaScript, React.js, Redux, Node.js, Express.js & Go (Golang) Specialist
+### 💻 Full Stack Developer | JavaScript, React.js, Redux, Node.js, Express.js & Go (Golang) | Cloud-Native & CI/CD
 
 🔹 **Experience:** 4.6+ years building scalable web applications  
 🔹 **Front-end:** React.js, Redux, JavaScript, HTML, CSS  
 🔹 **Back-end:** Node.js, Express.js, Go (Golang), MongoDB  
-🔹 **DevOps & Cloud:** Docker, Kubernetes, Microservices  
+🔹 **DevOps & Cloud:** Docker, Kubernetes, Microservices, CI/CD, Cloud-Native  
 🔹 **Skills:** API development, Unit testing, Debugging, Performance optimization  
 🔹 **Passionate About:** Clean code, Modern web technologies, Continuous learning  
 
@@ -20,14 +20,16 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cloud-Native](https://img.shields.io/badge/Cloud--Native-4285F4?style=for-the-badge&logo=icloud&logoColor=white)
 
 ---
 
 ### 🔭 Currently Working On
 - Scalable **React.js, Redux, Node.js, Express.js & Go** applications  
 - **Serverless architectures & microservices**  
-- **Open-source contributions**  
+- **Cloud-native application development**
 
 ---
 
@@ -35,7 +37,7 @@
 - Advanced **React performance optimization**  
 - **Node.js & Express.js backend development and performance optimization**  
 - **Go concurrency patterns**  
-- **Cloud-native development** 
+- **Cloud-native development**  
 
 ---
 

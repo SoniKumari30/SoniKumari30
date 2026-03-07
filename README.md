@@ -1,6 +1,6 @@
 # Hi 👋, I’m Soni Kumari
 
-### 💻 Full Stack Developer | React.js, Node.js, Express.js & Go (Golang) Specialist
+### 💻 Full Stack Developer | JavaScript, React.js, Node.js, Express.js & Go (Golang) Specialist
 
 🔹 **Experience:** 4.6+ years building scalable web applications  
 🔹 **Front-end:** React.js, Redux, JavaScript, HTML, CSS  

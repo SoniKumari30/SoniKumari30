@@ -2,7 +2,7 @@
 
 ### 💻 Full Stack Developer | JavaScript, React.js, Redux, Node.js, Express.js & Go (Golang) | Cloud-Native & CI/CD
 
-🔹 **Experience:** 4+ years building scalable web applications  
+🔹 **Experience:** 4.8 years building scalable web applications  
 🔹 **Front-end:** React.js, Redux, JavaScript, HTML, CSS  
 🔹 **Back-end:** Node.js, Express.js, Go (Golang), MongoDB  
 🔹 **DevOps & Cloud:** Docker, Kubernetes, Microservices, CI/CD, Cloud-Native  
